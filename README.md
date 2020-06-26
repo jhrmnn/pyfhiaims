@@ -4,11 +4,16 @@
 ![license](https://img.shields.io/badge/license-MPL--2.0-orange)
 [![code style](https://img.shields.io/badge/code%20style-black-202020.svg)](https://github.com/ambv/black)
 
-
 ## Installing
 
 ```
 pip install git+https://github.com/jhrmnn/pyfhiaims.git
+```
+
+## Requirements
+
+```bash
+export AIMS_SPECIES_DEFAULTS="<path to FHI-aims>/species_defaults"
 ```
 
 ## Examples
